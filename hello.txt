@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 HELLO ZHANGXILONG
 FUCK YOU ZHANGXILONG
 DONT TOUCH ME ZHANGXILONG
@@ -11,3 +10,4 @@ hotfix
 MASTER
 slave
 令狐冲加入团队后提交
+
