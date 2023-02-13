@@ -8,6 +8,4 @@ BEYBEY ZHANGXILONG
 444444
 hotfix
 MASTER
-slave
-令狐冲加入团队后提交
 
